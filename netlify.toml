@@ -1,9 +1,6 @@
 [build]
   publish = "."
 
-[build.environment]
-  HUGO_VERSION = "0.80.0"
-
 [[redirects]]
   from = "/*"
   to = "/index.html"
