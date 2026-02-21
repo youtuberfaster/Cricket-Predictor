@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    <!-- Main Home Page - Highest Priority -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- IPL Related -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- PSL Related -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- World Cup Related -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Today Match -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Live Prediction -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- India vs Pakistan -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Australia vs England -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- T20 World Cup -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Asia Cup -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Champions Trophy -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Cricket Astrology -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Cricket Numerology -->
+    <url>
+        <loc>https://cricket-predictor.netlify.app/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+</urlset>
